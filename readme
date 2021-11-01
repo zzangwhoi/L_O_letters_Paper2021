@@ -1,0 +1,14 @@
+The directory includes four .mat data and one .m matlab SOM script
+
+chl_GOM_origin_and_DINEOF.mat: surface chl concentration in the Gulf of Maine from 2001 to 2016 (MODIS satellite dataset and interpolated using DINEOF). The temporal resolution is 8-day.
+
+lon_GOM_2D.mat: longitude
+
+lat_GOM_2D.mat: latitude
+
+h_GoM.mat: bottom depth
+
+SOM_chl_analysis_all_50m.m: SOM training script. The SOM toolbox (v2.0) is downloaded from http://www.cis.hut.fi/projects/somtoolbox/
+ 
+
+ 
